@@ -1,0 +1,25 @@
+/* src/styles.css
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  button {
+    margin: 5px;
+    padding: 8px;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+   */
